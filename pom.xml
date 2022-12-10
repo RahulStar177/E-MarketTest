@@ -3,5 +3,7 @@
   <groupId>com.rahul</groupId>
   <artifactId>Emarket</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+<package>war</package>
 <git-version>1.1</git-version>
 </project>
